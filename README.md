@@ -126,22 +126,6 @@ const nurrabby = {
 Lane-runner car game on Base. Commit scores on-chain. Live leaderboard.
 `JavaScript` `Base` `Farcaster`
 
-**[Base Pressure](https://github.com/0xnurrabby/Base-Pressure)**
-Pump a bubble, multiply your score, bank before it bursts. Mint high score on Base.
-`JavaScript` `Base` `Farcaster`
-
-**[Extraxtor](https://github.com/0xnurrabby/Extraxtor)**
-Cyber dungeon risk-and-reward game. Go deeper for more loot, lose everything if HP hits zero.
-`JavaScript` `Base` `Farcaster`
-
-**[Mnemonic Defusal Squad](https://github.com/0xnurrabby/Mnemonic-Defusal-Squad)**
-Seed phrase memory training disguised as a bomb defusal game.
-`JavaScript` `Base` `Farcaster`
-
-**[My Little Rugpull](https://github.com/0xnurrabby/My-little-Rugpull)**
-Raise a virtual crypto pet with honeypot alerts and Base wallet connect.
-`JavaScript` `Base` `Farcaster`
-
 **[BusParking Game](https://github.com/0xnurrabby/BusParking_game)**
 3D bus parking puzzle built with BabylonJS as a Farcaster mini app.
 `JavaScript` `BabylonJS` `Farcaster`
@@ -171,42 +155,9 @@ Track Farcaster Neynar score over 7/30/90 days with chart and CSV export.
 Always-on-top Electron app showing Vercel AI Gateway balance in real time.
 `Electron` `JavaScript` `Desktop`
 
-**[BaseShot](https://github.com/0xnurrabby/BaseShot)**
-Flask tool to scan Base ERC-20 transfers across any block range and export CSV snapshots.
-`Python` `Flask` `Base`
-
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🌱 Mini Apps
-
-**[Base Bonsai](https://github.com/0xnurrabby/Bonsai)**
-Grow and tend a digital bonsai inside the Base app.
-`TypeScript` `Vite` `Farcaster`
-
-**[Hash-Beats](https://github.com/0xnurrabby/Hash-Beats)**
-Turn any transaction hash into a 64-step drum beat.
-`JavaScript` `WebAudio` `Farcaster`
-
-**[Proof of Walk](https://github.com/0xnurrabby/PROOF-OF-WALK)**
-Walk to generate kinetic hashpower and mine a daily block on Base.
-`JavaScript` `Base` `Farcaster`
-
-**[Melt](https://github.com/0xnurrabby/Onchaintest)**
-Numberless focus timer. Tap to light a candle and watch it melt.
-`JavaScript` `Base` `Farcaster`
-
-**[Yield Vats](https://github.com/0xnurrabby/Yield)**
-DeFi yield vat simulation with wallet connect on Base.
-`JavaScript` `Base` `Farcaster`
-
-**[MemPool Galaxy](https://github.com/0xnurrabby/MemPool)**
-Visualize your Farcaster social circle as an animated node galaxy.
-`JavaScript` `Canvas` `Farcaster`
-
-</td>
 <td width="50%" valign="top">
 
 ### 🔧 Dev Utilities
@@ -214,10 +165,6 @@ Visualize your Farcaster social circle as an animated node galaxy.
 **[Wallet Generator](https://github.com/0xnurrabby/Wallet-Generator)**
 Generate up to 1000 EVM wallets locally. Export TXT, JSON, or CSV.
 `HTML` `ethers.js`
-
-**[base-kawaii](https://github.com/0xnurrabby/base-kawaii)**
-Wallet behavior visualizer with kawaii character, behavior meters, and token garden.
-`React` `Vite` `Base`
 
 **[Legacy Code Archaeologist](https://github.com/0xnurrabby/Legacy-Code-Archaeologist)**
 Drop any GitHub repo, Claude explains it, maps deps, finds landmines.
@@ -236,6 +183,11 @@ Fast browser-based name and username generator with filters and export.
 `HTML` `JavaScript`
 
 </td>
+<td width="50%" valign="top">
+
+&nbsp;
+
+</td>
 </tr>
 </table>
 
@@ -243,18 +195,26 @@ Fast browser-based name and username generator with filters and export.
 
 ---
 
-<!-- ACTIVITY -->
-## `{ what_i_build }`
+<!-- LANGUAGE BREAKDOWN -->
+## `{ language_breakdown }`
 
 <div align="center">
 
+![JavaScript](https://img.shields.io/badge/JavaScript-42.2%25-FFF4A8?style=flat-square&labelColor=1a1a1a)
+![TypeScript](https://img.shields.io/badge/TypeScript-40.3%25-B3D9FF?style=flat-square&labelColor=1a1a1a)
+![HTML](https://img.shields.io/badge/HTML-9.1%25-FFB3B3?style=flat-square&labelColor=1a1a1a)
+![CSS](https://img.shields.io/badge/CSS-7.4%25-D4B3FF?style=flat-square&labelColor=1a1a1a)
+![Python](https://img.shields.io/badge/Python-0.9%25-FFD4A8?style=flat-square&labelColor=1a1a1a)
+
 ```
-Farcaster Mini Apps  ████████████████░░░░  80%
-DeFi / Onchain Tools ████████████░░░░░░░░  60%
-Web Apps / Dashboards████████░░░░░░░░░░░░  40%
-Games (Browser / 3D) ████████████░░░░░░░░  60%
-AI-powered Tools     ██████░░░░░░░░░░░░░░  30%
+JavaScript  ████████████████████░░░░░░░░░░░░░░░░░░░░  42.2%
+TypeScript  ███████████████████░░░░░░░░░░░░░░░░░░░░░  40.3%
+HTML        ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   9.1%
+CSS         ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   7.4%
+Python      ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
 ```
+
+*calculated across all 37 repos*
 
 </div>
 
