@@ -1,7 +1,7 @@
 <!-- HEADER BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=0xnurrabby&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Blockchain%20Dev%20%7C%20Smart%20Contract%20Engineer%20%7C%20Web3%20Builder&descAlignY=55&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=0xnurrabby&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Blockchain%20Dev%20%7C%20Onchain%20Builder%20%7C%20Base%20Ecosystem&descAlignY=55&descSize=14" width="100%"/>
 
 </div>
 
@@ -28,10 +28,10 @@ const nurrabby = {
   org:      "@pirichain",
   location: "Bangladesh 🇧🇩",
   focus:    [
-    "Blockchain",
-    "DeFi",
-    "Onchain Apps",
+    "Onchain Games & Mini Apps",
+    "DeFi Tools",
     "Smart Contracts",
+    "Farcaster Ecosystem",
   ],
   building: "onchain games & tools on Base ⛓️",
   belief:   "code is the new contract 📜",
@@ -46,9 +46,9 @@ const nurrabby = {
 
 <div align="center">
 
-![Repos](https://img.shields.io/badge/REPOS-39-B8F0D8?style=for-the-badge&labelColor=1a1a1a)
-![Followers](https://img.shields.io/badge/FOLLOWERS-7-FFD4A8?style=for-the-badge&labelColor=1a1a1a)
-![Focus](https://img.shields.io/badge/FOCUS-Web3-B3D9FF?style=for-the-badge&labelColor=1a1a1a)
+![Repos](https://img.shields.io/badge/REPOS-38-B8F0D8?style=for-the-badge&labelColor=1a1a1a)
+![Focus](https://img.shields.io/badge/FOCUS-Base%20%2F%20Farcaster-B3D9FF?style=for-the-badge&labelColor=1a1a1a)
+![Chain](https://img.shields.io/badge/CHAIN-Base%20Mainnet-FFD4A8?style=for-the-badge&labelColor=1a1a1a)
 ![Location](https://img.shields.io/badge/FROM-Bangladesh-FFB3D9?style=for-the-badge&labelColor=1a1a1a)
 
 <br/>
@@ -70,23 +70,23 @@ const nurrabby = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-B3D9FF?style=for-the-badge&logo=typescript&logoColor=1a1a1a)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFF4A8?style=for-the-badge&logo=javascript&logoColor=1a1a1a)
 ![Python](https://img.shields.io/badge/Python-FFD4A8?style=for-the-badge&logo=python&logoColor=1a1a1a)
-![Rust](https://img.shields.io/badge/Rust-FFB3B3?style=for-the-badge&logo=rust&logoColor=1a1a1a)
+![HTML5](https://img.shields.io/badge/HTML5-FFB3B3?style=for-the-badge&logo=html5&logoColor=1a1a1a)
 
 **◆ BLOCKCHAIN & WEB3**
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-D4B3FF?style=for-the-badge&logo=ethereum&logoColor=1a1a1a)
 ![Base](https://img.shields.io/badge/Base_Chain-B3D9FF?style=for-the-badge&logo=coinbase&logoColor=1a1a1a)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF4A8?style=for-the-badge&logo=hardhat&logoColor=1a1a1a)
-![Foundry](https://img.shields.io/badge/Foundry-FFD4A8?style=for-the-badge&logo=target&logoColor=1a1a1a)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-B8F0D8?style=for-the-badge&logo=ethereum&logoColor=1a1a1a)
+![Farcaster](https://img.shields.io/badge/Farcaster-B8F0D8?style=for-the-badge&logoColor=1a1a1a)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-FFF4A8?style=for-the-badge&logo=ethereum&logoColor=1a1a1a)
+![Viem](https://img.shields.io/badge/Viem-FFD4A8?style=for-the-badge&logo=ethereum&logoColor=1a1a1a)
 
 **◆ FRAMEWORKS & TOOLS**
 
 ![Next.js](https://img.shields.io/badge/Next.js-E8E8E8?style=for-the-badge&logo=next.js&logoColor=1a1a1a)
 ![React](https://img.shields.io/badge/React-B3D9FF?style=for-the-badge&logo=react&logoColor=1a1a1a)
-![Node.js](https://img.shields.io/badge/Node.js-B8F0D8?style=for-the-badge&logo=node.js&logoColor=1a1a1a)
-![Docker](https://img.shields.io/badge/Docker-B3D9FF?style=for-the-badge&logo=docker&logoColor=1a1a1a)
-![Git](https://img.shields.io/badge/Git-FFB3B3?style=for-the-badge&logo=git&logoColor=1a1a1a)
+![Vite](https://img.shields.io/badge/Vite-B8F0D8?style=for-the-badge&logo=vite&logoColor=1a1a1a)
+![Node.js](https://img.shields.io/badge/Node.js-FFB3B3?style=for-the-badge&logo=node.js&logoColor=1a1a1a)
+![Tailwind](https://img.shields.io/badge/Tailwind-D4B3FF?style=for-the-badge&logo=tailwindcss&logoColor=1a1a1a)
 
 </div>
 
@@ -111,54 +111,152 @@ const nurrabby = {
 
 ---
 
-<!-- LANGUAGE BAR -->
-## `{ language_breakdown }`
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-62%25-B3D9FF?style=flat-square&labelColor=1a1a1a)
-![JavaScript](https://img.shields.io/badge/JavaScript-24%25-FFF4A8?style=flat-square&labelColor=1a1a1a)
-![Solidity](https://img.shields.io/badge/Solidity-11%25-B8F0D8?style=flat-square&labelColor=1a1a1a)
-![Other](https://img.shields.io/badge/Other-3%25-FFD4A8?style=flat-square&labelColor=1a1a1a)
-
-</div>
-
-```
-TypeScript  ████████████░░░░░░░░  62%
-JavaScript  ████░░░░░░░░░░░░░░░░  24%
-Solidity    ██░░░░░░░░░░░░░░░░░░  11%
-Other       ░░░░░░░░░░░░░░░░░░░░   3%
-```
-
----
-
 <!-- FEATURED PROJECTS -->
 ## `{ featured_projects }`
 
-### 📦 Baseposting
-> Top-most-used BasePost Generator for the Base ecosystem.
+<div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-B3D9FF?style=flat-square&labelColor=1a1a1a)
-![Stars](https://img.shields.io/github/stars/0xnurrabby/Baseposting?style=flat-square&color=FFF4A8&labelColor=1a1a1a)
-&nbsp;[→ View Repo](https://github.com/0xnurrabby/Baseposting)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 Onchain Games
+
+**[GasRun](https://github.com/0xnurrabby/GasRun)**
+Lane-runner car game on Base. Commit scores on-chain. Live leaderboard.
+`JavaScript` `Base` `Farcaster`
+
+**[Base Pressure](https://github.com/0xnurrabby/Base-Pressure)**
+Pump a bubble, multiply your score, bank before it bursts. Mint high score on Base.
+`JavaScript` `Base` `Farcaster`
+
+**[Extraxtor](https://github.com/0xnurrabby/Extraxtor)**
+Cyber dungeon risk-and-reward game. Go deeper for more loot, lose everything if HP hits zero.
+`JavaScript` `Base` `Farcaster`
+
+**[Mnemonic Defusal Squad](https://github.com/0xnurrabby/Mnemonic-Defusal-Squad)**
+Seed phrase memory training disguised as a bomb defusal game.
+`JavaScript` `Base` `Farcaster`
+
+**[My Little Rugpull](https://github.com/0xnurrabby/My-little-Rugpull)**
+Raise a virtual crypto pet with honeypot alerts and Base wallet connect.
+`JavaScript` `Base` `Farcaster`
+
+**[BusParking Game](https://github.com/0xnurrabby/BusParking_game)**
+3D bus parking puzzle built with BabylonJS as a Farcaster mini app.
+`JavaScript` `BabylonJS` `Farcaster`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Tools & Apps
+
+**[Baseposting](https://github.com/0xnurrabby/Baseposting)**
+AI post generator mini app on Base. Credit system backed by smart contracts.
+`TypeScript` `React` `Base`
+
+**[Auditor](https://github.com/0xnurrabby/Auditor)**
+Farcaster analytics. 7-day engagement breakdown, best post time, audience type, growth tips.
+`JavaScript` `Neynar` `Farcaster`
+
+**[BaseFlow](https://github.com/0xnurrabby/BaseFlow)**
+Bulk ERC-20 token sender. CSV upload, 10k addresses, multi-wallet, ERC-8021 attribution.
+`TypeScript` `Base` `Vite`
+
+**[NeynarHistory](https://github.com/0xnurrabby/NeynarHistory)**
+Track Farcaster Neynar score over 7/30/90 days with chart and CSV export.
+`TypeScript` `Vite` `Farcaster`
+
+**[vercel-api-balance](https://github.com/0xnurrabby/vercel-api-balance)**
+Always-on-top Electron app showing Vercel AI Gateway balance in real time.
+`Electron` `JavaScript` `Desktop`
+
+**[BaseShot](https://github.com/0xnurrabby/BaseShot)**
+Flask tool to scan Base ERC-20 transfers across any block range and export CSV snapshots.
+`Python` `Flask` `Base`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 Mini Apps
+
+**[Base Bonsai](https://github.com/0xnurrabby/Bonsai)**
+Grow and tend a digital bonsai inside the Base app.
+`TypeScript` `Vite` `Farcaster`
+
+**[Hash-Beats](https://github.com/0xnurrabby/Hash-Beats)**
+Turn any transaction hash into a 64-step drum beat.
+`JavaScript` `WebAudio` `Farcaster`
+
+**[Proof of Walk](https://github.com/0xnurrabby/PROOF-OF-WALK)**
+Walk to generate kinetic hashpower and mine a daily block on Base.
+`JavaScript` `Base` `Farcaster`
+
+**[Melt](https://github.com/0xnurrabby/Onchaintest)**
+Numberless focus timer. Tap to light a candle and watch it melt.
+`JavaScript` `Base` `Farcaster`
+
+**[Yield Vats](https://github.com/0xnurrabby/Yield)**
+DeFi yield vat simulation with wallet connect on Base.
+`JavaScript` `Base` `Farcaster`
+
+**[MemPool Galaxy](https://github.com/0xnurrabby/MemPool)**
+Visualize your Farcaster social circle as an animated node galaxy.
+`JavaScript` `Canvas` `Farcaster`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 Dev Utilities
+
+**[Wallet Generator](https://github.com/0xnurrabby/Wallet-Generator)**
+Generate up to 1000 EVM wallets locally. Export TXT, JSON, or CSV.
+`HTML` `ethers.js`
+
+**[base-kawaii](https://github.com/0xnurrabby/base-kawaii)**
+Wallet behavior visualizer with kawaii character, behavior meters, and token garden.
+`React` `Vite` `Base`
+
+**[Legacy Code Archaeologist](https://github.com/0xnurrabby/Legacy-Code-Archaeologist)**
+Drop any GitHub repo, Claude explains it, maps deps, finds landmines.
+`JavaScript` `Claude AI`
+
+**[NurChain](https://github.com/0xnurrabby/Chain)**
+Full-stack blockchain explorer with TypeScript backend and React frontend.
+`TypeScript` `React` `Express`
+
+**[hotel-management-system](https://github.com/0xnurrabby/hotel-management-system)**
+Full-stack hotel management with Next.js, Prisma, Tailwind, and Shadcn/UI.
+`TypeScript` `Next.js` `Prisma`
+
+**[Name Generator](https://github.com/0xnurrabby/Name-Generator)**
+Fast browser-based name and username generator with filters and export.
+`HTML` `JavaScript`
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-### 🎮 GasRun
-> Onchain car game deployed and running on Base network.
+<!-- ACTIVITY -->
+## `{ what_i_build }`
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFF4A8?style=flat-square&labelColor=1a1a1a)
-![Stars](https://img.shields.io/github/stars/0xnurrabby/GasRun?style=flat-square&color=FFF4A8&labelColor=1a1a1a)
-&nbsp;[→ View Repo](https://github.com/0xnurrabby/GasRun)
+<div align="center">
 
----
+```
+Farcaster Mini Apps  ████████████████░░░░  80%
+DeFi / Onchain Tools ████████████░░░░░░░░  60%
+Web Apps / Dashboards████████░░░░░░░░░░░░  40%
+Games (Browser / 3D) ████████████░░░░░░░░  60%
+AI-powered Tools     ██████░░░░░░░░░░░░░░  30%
+```
 
-### ⛓️ BaseFlow
-> Flow automation tooling built for the Base chain ecosystem.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-B3D9FF?style=flat-square&labelColor=1a1a1a)
-![Stars](https://img.shields.io/github/stars/0xnurrabby/BaseFlow?style=flat-square&color=FFF4A8&labelColor=1a1a1a)
-&nbsp;[→ View Repo](https://github.com/0xnurrabby/BaseFlow)
+</div>
 
 ---
 
@@ -172,6 +270,8 @@ Other       ░░░░░░░░░░░░░░░░░░░░   3%
 [![Telegram](https://img.shields.io/badge/Telegram-@nurrabby-B3D9FF?style=for-the-badge&logo=telegram&logoColor=1a1a1a&labelColor=1a1a1a)](https://t.me/nurrabby)
 
 [![GitHub](https://img.shields.io/badge/GitHub-0xnurrabby-FFD4A8?style=for-the-badge&logo=github&logoColor=1a1a1a&labelColor=1a1a1a)](https://github.com/0xnurrabby)
+
+[![Farcaster](https://img.shields.io/badge/Farcaster-nurrabby-D4B3FF?style=for-the-badge&logoColor=1a1a1a&labelColor=1a1a1a)](https://warpcast.com/nurrabby)
 
 </div>
 
