@@ -1,199 +1,215 @@
-<!-- ============================================================
-     0xnurrabby — GitHub Profile README
-     Neo-brutalist design · static content · no dynamic widgets
-     ============================================================ -->
-
+<!-- HEADER BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=B8F0D8&height=8&section=header" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=0xnurrabby&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Blockchain%20Dev%20%7C%20Smart%20Contract%20Engineer%20%7C%20Web3%20Builder&descAlignY=55&descSize=16" width="100%"/>
 
 </div>
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0"><tr>
-<td width="6" bgcolor="#1a1a1a">&nbsp;</td>
-<td bgcolor="#B8F0D8" style="padding:32px 28px 24px;">
+<!-- NAME + TAGLINE -->
+<div align="center">
 
-<h1>Nur Rabby Shuvo</h1>
-<p><code>// @0xnurrabby &nbsp;·&nbsp; @pirichain &nbsp;·&nbsp; Bangladesh 🇧🇩</code></p>
-<blockquote>
-Blockchain technology will change the world.<br/>
-Cryptocurrencies are just a tool for that change.
-</blockquote>
+```
+╔══════════════════════════════════════════════════════════╗
+║   👋  Hey, I'm  NUR RABBY SHUVO  aka  0xnurrabby        ║
+║   📍  Bangladesh 🇧🇩  ·  @pirichain                      ║
+║   💬  "Blockchain will change the world.                 ║
+║        Crypto is just the tool."                         ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-![](https://img.shields.io/badge/Blockchain%20Dev-1a1a1a?style=flat-square&labelColor=0a4a2a&color=B8F0D8)
-![](https://img.shields.io/badge/Smart%20Contracts-002a5a?style=flat-square&labelColor=002a5a&color=B3D9FF)
-![](https://img.shields.io/badge/Base%20Chain-4a3a00?style=flat-square&labelColor=4a3a00&color=FFF176)
-![](https://img.shields.io/badge/DeFi%20Builder-5a0020?style=flat-square&labelColor=5a0020&color=FFC0D4)
-![](https://img.shields.io/badge/Web3-5a2000?style=flat-square&labelColor=5a2000&color=FFD4A8)
-
-</td>
-<td width="6" bgcolor="#1a1a1a">&nbsp;</td>
-</tr></table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=4" width="100%"/>
+</div>
 
 ---
 
-## `about_me.ts`
+<!-- ABOUT ME -->
+<table>
+<tr>
+<td width="55%">
 
-```typescript
+## `{ about_me }`
+
+```ts
 const nurrabby = {
   name:     "Nur Rabby Shuvo",
   alias:    "0xnurrabby",
   org:      "@pirichain",
   location: "Bangladesh 🇧🇩",
-  focus:    ["Blockchain", "DeFi", "Onchain Apps"],
+  focus:    [
+    "Blockchain",
+    "DeFi",
+    "Onchain Apps",
+    "Smart Contracts",
+  ],
   building: "onchain games & tools on Base ⛓️",
   belief:   "code is the new contract 📜",
-  // open to collabs in Web3 space
+  openTo:   "Web3 collabs & open source",
 };
 ```
 
----
-
-## `tech_stack`
-
-<div align="center">
-
-<table cellspacing="0" cellpadding="0" border="0">
-<tr>
-<td align="center" bgcolor="#B8F0D8" style="border:2px solid #1a1a1a;padding:10px 20px;"><b>Solidity</b></td>
-<td align="center" bgcolor="#B3D9FF" style="border:2px solid #1a1a1a;border-left:none;padding:10px 20px;"><b>TypeScript</b></td>
-<td align="center" bgcolor="#FFF176" style="border:2px solid #1a1a1a;border-left:none;padding:10px 20px;"><b>JavaScript</b></td>
-<td align="center" bgcolor="#FFC0D4" style="border:2px solid #1a1a1a;border-left:none;padding:10px 20px;"><b>Rust</b></td>
-</tr>
-<tr>
-<td align="center" bgcolor="#D4B8FF" style="border:2px solid #1a1a1a;border-top:none;padding:10px 20px;"><b>Python</b></td>
-<td align="center" bgcolor="#FFD4A8" style="border:2px solid #1a1a1a;border-left:none;border-top:none;padding:10px 20px;"><b>Hardhat</b></td>
-<td align="center" bgcolor="#B8F0D8" style="border:2px solid #1a1a1a;border-left:none;border-top:none;padding:10px 20px;"><b>Foundry</b></td>
-<td align="center" bgcolor="#B3D9FF" style="border:2px solid #1a1a1a;border-left:none;border-top:none;padding:10px 20px;"><b>Ethers.js</b></td>
-</tr>
-<tr>
-<td align="center" bgcolor="#FFF176" style="border:2px solid #1a1a1a;border-top:none;padding:10px 20px;"><b>Next.js</b></td>
-<td align="center" bgcolor="#FFC0D4" style="border:2px solid #1a1a1a;border-left:none;border-top:none;padding:10px 20px;"><b>React</b></td>
-<td align="center" bgcolor="#D4B8FF" style="border:2px solid #1a1a1a;border-left:none;border-top:none;padding:10px 20px;"><b>Node.js</b></td>
-<td align="center" bgcolor="#FFD4A8" style="border:2px solid #1a1a1a;border-left:none;border-top:none;padding:10px 20px;"><b>Docker</b></td>
-</tr>
-</table>
-
-</div>
-
----
-
-## `stats`
-
-<div align="center">
-
-<table cellspacing="0" cellpadding="0" border="0">
-<tr>
-<td align="center" bgcolor="#B8F0D8" style="border:2px solid #1a1a1a;padding:16px 28px;">
-<h3>38</h3>
-<sub>REPOS</sub>
 </td>
-<td align="center" bgcolor="#FFF176" style="border:2px solid #1a1a1a;border-left:none;padding:16px 28px;">
-<h3>7</h3>
-<sub>FOLLOWERS</sub>
-</td>
-<td align="center" bgcolor="#D4B8FF" style="border:2px solid #1a1a1a;border-left:none;padding:16px 28px;">
-<h3>3+</h3>
-<sub>PROJECTS</sub>
-</td>
-<td align="center" bgcolor="#B3D9FF" style="border:2px solid #1a1a1a;border-left:none;padding:16px 28px;">
-<h3>BD</h3>
-<sub>LOCATION</sub>
-</td>
-</tr>
-</table>
+<td width="45%" align="center">
 
-</div>
+## `{ quick_stats }`
+
+| | |
+|:---:|:---:|
+| ![Repos](https://img.shields.io/badge/REPOS-39-B8F0D8?style=for-the-badge&labelColor=1a1a1a) | ![Followers](https://img.shields.io/badge/FOLLOWERS-7-FFD4A8?style=for-the-badge&labelColor=1a1a1a) |
+| ![Focus](https://img.shields.io/badge/FOCUS-Web3-B3D9FF?style=for-the-badge&labelColor=1a1a1a) | ![Location](https://img.shields.io/badge/FROM-Bangladesh-FFB3D9?style=for-the-badge&labelColor=1a1a1a) |
 
 <br/>
 
-**Language breakdown** *(estimated from public repos)*
-
-| Language | &nbsp; |
-|---|---|
-| ![TypeScript](https://img.shields.io/badge/TypeScript-62%25-B3D9FF?style=flat-square&labelColor=1a1a1a) | `████████████░░░░░░░░` |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-24%25-FFF176?style=flat-square&labelColor=1a1a1a) | `████░░░░░░░░░░░░░░░░` |
-| ![Solidity](https://img.shields.io/badge/Solidity-11%25-B8F0D8?style=flat-square&labelColor=1a1a1a)     | `██░░░░░░░░░░░░░░░░░░` |
-| ![Other](https://img.shields.io/badge/Other-3%25-FFC0D4?style=flat-square&labelColor=1a1a1a)           | `░░░░░░░░░░░░░░░░░░░░` |
-
----
-
-## `featured_projects`
-
-<div align="center">
-
-<table cellspacing="0" cellpadding="0" border="0" width="100%">
-<tr>
-<td width="50%" bgcolor="#FFF176" style="border:2px solid #1a1a1a;padding:18px;" valign="top">
-
-**📦 Baseposting**
-
-<sub>Top-most-used BasePost Generator for the Base ecosystem.</sub>
-
-<br/><br/>
-
-![](https://img.shields.io/badge/TypeScript-B3D9FF?style=flat-square&labelColor=1a1a1a)
-&nbsp;`★ 1`
-
-</td>
-<td width="50%" bgcolor="#FFC0D4" style="border:2px solid #1a1a1a;border-left:none;padding:18px;" valign="top">
-
-**🎮 GasRun**
-
-<sub>Onchain car game deployed and running on Base network.</sub>
-
-<br/><br/>
-
-![](https://img.shields.io/badge/JavaScript-FFF176?style=flat-square&labelColor=1a1a1a)
-&nbsp;`★ 1`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" bgcolor="#B3D9FF" style="border:2px solid #1a1a1a;border-top:none;padding:18px;" valign="top">
-
-**⛓️ BaseFlow**
-
-<sub>Flow automation tooling built for the Base chain ecosystem.</sub>
-
-<br/><br/>
-
-![](https://img.shields.io/badge/TypeScript-B3D9FF?style=flat-square&labelColor=1a1a1a)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=0xnurrabby&style=for-the-badge&color=B8F0D8&labelColor=1a1a1a&label=PROFILE+VIEWS)
 
 </td>
 </tr>
 </table>
 
+---
+
+<!-- TECH STACK -->
+## `{ tech_stack }`
+
+<div align="center">
+
+### ◆ CORE LANGUAGES
+
+![Solidity](https://img.shields.io/badge/Solidity-B8F0D8?style=for-the-badge&logo=solidity&logoColor=1a1a1a)
+![TypeScript](https://img.shields.io/badge/TypeScript-B3D9FF?style=for-the-badge&logo=typescript&logoColor=1a1a1a)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF4A8?style=for-the-badge&logo=javascript&logoColor=1a1a1a)
+![Python](https://img.shields.io/badge/Python-FFD4A8?style=for-the-badge&logo=python&logoColor=1a1a1a)
+![Rust](https://img.shields.io/badge/Rust-FFB3B3?style=for-the-badge&logo=rust&logoColor=1a1a1a)
+
+### ◆ BLOCKCHAIN & WEB3
+
+![Ethereum](https://img.shields.io/badge/Ethereum-D4B3FF?style=for-the-badge&logo=ethereum&logoColor=1a1a1a)
+![Base](https://img.shields.io/badge/Base_Chain-B3D9FF?style=for-the-badge&logo=coinbase&logoColor=1a1a1a)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF4A8?style=for-the-badge&logo=hardhat&logoColor=1a1a1a)
+![Foundry](https://img.shields.io/badge/Foundry-FFD4A8?style=for-the-badge&logo=target&logoColor=1a1a1a)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-B8F0D8?style=for-the-badge&logo=ethereum&logoColor=1a1a1a)
+
+### ◆ FRAMEWORKS & TOOLS
+
+![Next.js](https://img.shields.io/badge/Next.js-E8E8E8?style=for-the-badge&logo=next.js&logoColor=1a1a1a)
+![React](https://img.shields.io/badge/React-B3D9FF?style=for-the-badge&logo=react&logoColor=1a1a1a)
+![Node.js](https://img.shields.io/badge/Node.js-B8F0D8?style=for-the-badge&logo=node.js&logoColor=1a1a1a)
+![Docker](https://img.shields.io/badge/Docker-B3D9FF?style=for-the-badge&logo=docker&logoColor=1a1a1a)
+![Git](https://img.shields.io/badge/Git-FFB3B3?style=for-the-badge&logo=git&logoColor=1a1a1a)
+
 </div>
 
 ---
 
-## `connect`
+<!-- GITHUB STATS -->
+## `{ github_stats }`
 
 <div align="center">
 
-<table cellspacing="0" cellpadding="0" border="0">
-<tr>
-<td bgcolor="#1a1a1a" style="border:2px solid #1a1a1a;padding:12px 28px;">
-<a href="https://x.com/nurw3b"><img src="https://img.shields.io/badge/𝕏 @nurw3b-B8F0D8?style=flat-square&labelColor=1a1a1a&color=1a1a1a&logoColor=B8F0D8"/></a>
-</td>
-<td bgcolor="#B3D9FF" style="border:2px solid #1a1a1a;border-left:none;padding:12px 28px;">
-<a href="https://t.me/nurrabby"><img src="https://img.shields.io/badge/Telegram-nurrabby-002a5a?style=flat-square&labelColor=002a5a&color=B3D9FF"/></a>
-</td>
-<td bgcolor="#B8F0D8" style="border:2px solid #1a1a1a;border-left:none;padding:12px 28px;">
-<a href="https://github.com/0xnurrabby"><img src="https://img.shields.io/badge/GitHub-0xnurrabby-0a3a20?style=flat-square&labelColor=0a3a20&color=B8F0D8"/></a>
-</td>
-</tr>
-</table>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=0xnurrabby&show_icons=true&theme=transparent&title_color=1a1a1a&text_color=1a1a1a&icon_color=B8F0D8&border_color=1a1a1a&border_radius=0&bg_color=ffffff&custom_title=GitHub+Stats&hide_border=false&include_all_commits=true&count_private=true" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xnurrabby&layout=compact&theme=transparent&title_color=1a1a1a&text_color=1a1a1a&border_color=1a1a1a&border_radius=0&bg_color=ffffff&hide_border=false&langs_count=6&custom_title=Top+Languages" />
 
 </div>
 
-<br/>
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=0xnurrabby&theme=transparent&background=ffffff&border=1a1a1a&stroke=B8F0D8&ring=B3D9FF&fire=FFD4A8&currStreakNum=1a1a1a&sideNums=1a1a1a&currStreakLabel=1a1a1a&sideLabels=1a1a1a&dates=555555&border_radius=0" />
+
+</div>
+
+---
+
+<!-- LANGUAGE BAR -->
+## `{ language_breakdown }`
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=4" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=B8F0D8&height=6" width="100%"/>
+
+```
+TypeScript  ████████████░░░░░░░░  62%
+JavaScript  ████░░░░░░░░░░░░░░░░  24%
+Solidity    ██░░░░░░░░░░░░░░░░░░  11%
+Other       ░░░░░░░░░░░░░░░░░░░░   3%
+```
+
+![TypeScript](https://img.shields.io/badge/TypeScript-62%25-B3D9FF?style=flat-square&labelColor=1a1a1a)
+![JavaScript](https://img.shields.io/badge/JavaScript-24%25-FFF4A8?style=flat-square&labelColor=1a1a1a)
+![Solidity](https://img.shields.io/badge/Solidity-11%25-B8F0D8?style=flat-square&labelColor=1a1a1a)
+![Other](https://img.shields.io/badge/Other-3%25-FFD4A8?style=flat-square&labelColor=1a1a1a)
+
+</div>
+
+---
+
+<!-- FEATURED PROJECTS -->
+## `{ featured_projects }`
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 📦 Baseposting
+> Top-most-used BasePost Generator for the Base ecosystem.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-B3D9FF?style=flat-square&labelColor=1a1a1a)
+![Stars](https://img.shields.io/github/stars/0xnurrabby/Baseposting?style=flat-square&color=FFF4A8&labelColor=1a1a1a)
+
+[→ View Repo](https://github.com/0xnurrabby/Baseposting)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🎮 GasRun
+> Onchain car game deployed and running on Base network.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF4A8?style=flat-square&labelColor=1a1a1a)
+![Stars](https://img.shields.io/github/stars/0xnurrabby/GasRun?style=flat-square&color=FFF4A8&labelColor=1a1a1a)
+
+[→ View Repo](https://github.com/0xnurrabby/GasRun)
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⛓️ BaseFlow
+> Flow automation tooling built for the Base chain ecosystem.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-B3D9FF?style=flat-square&labelColor=1a1a1a)
+![Stars](https://img.shields.io/github/stars/0xnurrabby/BaseFlow?style=flat-square&color=FFF4A8&labelColor=1a1a1a)
+
+[→ View Repo](https://github.com/0xnurrabby/BaseFlow)
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- CONNECT -->
+## `{ connect }`
+
+<div align="center">
+
+[![X / Twitter](https://img.shields.io/badge/X_(Twitter)-@nurw3b-B8F0D8?style=for-the-badge&logo=x&logoColor=1a1a1a&labelColor=1a1a1a)](https://x.com/nurw3b)
+&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-@nurrabby-B3D9FF?style=for-the-badge&logo=telegram&logoColor=1a1a1a&labelColor=1a1a1a)](https://t.me/nurrabby)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0xnurrabby-FFD4A8?style=for-the-badge&logo=github&logoColor=1a1a1a&labelColor=1a1a1a)](https://github.com/0xnurrabby)
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║    building onchain.  one block at a time.   ⛓️          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
 </div>
