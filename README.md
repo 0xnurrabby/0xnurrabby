@@ -8,9 +8,9 @@
 <!-- NAME + TAGLINE -->
 <div align="center">
 
-**`// 👋 Hey, I'm NUR RABBY SHUVO`**
+**`👋 Hey, I'm NUR RABBY SHUVO`**
 
-**`// 📍 Bangladesh 🇧🇩 · @pirichain`**
+**`📍 Bangladesh 🇧🇩 · @pirichain`**
 
 > *"Blockchain will change the world. Crypto is just the tool."*
 
