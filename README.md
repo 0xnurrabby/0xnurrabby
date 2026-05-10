@@ -97,14 +97,6 @@ const nurrabby = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=0xnurrabby&show_icons=true&theme=transparent&title_color=1a1a1a&text_color=1a1a1a&icon_color=B8F0D8&border_color=1a1a1a&border_radius=0&bg_color=ffffff&custom_title=GitHub+Stats&hide_border=false&include_all_commits=true&count_private=true" width="100%" style="max-width:480px"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xnurrabby&layout=compact&theme=transparent&title_color=1a1a1a&text_color=1a1a1a&border_color=1a1a1a&border_radius=0&bg_color=ffffff&hide_border=false&langs_count=6&custom_title=Top+Languages" width="100%" style="max-width:480px"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=0xnurrabby&theme=transparent&background=ffffff&border=1a1a1a&stroke=B8F0D8&ring=B3D9FF&fire=FFD4A8&currStreakNum=1a1a1a&sideNums=1a1a1a&currStreakLabel=1a1a1a&sideLabels=1a1a1a&dates=555555&border_radius=0" width="100%" style="max-width:480px"/>
 
 </div>
@@ -114,109 +106,246 @@ const nurrabby = {
 <!-- FEATURED PROJECTS -->
 ## `{ featured_projects }`
 
-<div align="center">
+<br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<!-- ROW 1 -->
+<table><tr>
 
-### 🎮 Onchain Games
+<td width="33%" valign="top">
+<div style="border:2px solid #1a1a1a;padding:16px;background:#fffbe6;box-shadow:4px 4px 0px #1a1a1a;">
 
-**[GasRun](https://github.com/0xnurrabby/GasRun)**
-Lane-runner car game on Base. Commit scores on-chain. Live leaderboard.
-`JavaScript` `Base` `Farcaster`
+**🎮 GASRUN**
 
-**[BusParking Game](https://github.com/0xnurrabby/BusParking_game)**
-3D bus parking puzzle built with BabylonJS as a Farcaster mini app.
-`JavaScript` `BabylonJS` `Farcaster`
+Lane-runner car game on Base. Dodge traffic, commit scores on-chain, chase the weekly leaderboard.
 
-</td>
-<td width="50%" valign="top">
+![JS](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square) ![Base](https://img.shields.io/badge/Base-1a1a1a?style=flat-square) ![Farcaster](https://img.shields.io/badge/Farcaster-1a1a1a?style=flat-square)
 
-### 🛠️ Tools & Apps
-
-**[Baseposting](https://github.com/0xnurrabby/Baseposting)**
-AI post generator mini app on Base. Credit system backed by smart contracts.
-`TypeScript` `React` `Base`
-
-**[Auditor](https://github.com/0xnurrabby/Auditor)**
-Farcaster analytics. 7-day engagement breakdown, best post time, audience type, growth tips.
-`JavaScript` `Neynar` `Farcaster`
-
-**[BaseFlow](https://github.com/0xnurrabby/BaseFlow)**
-Bulk ERC-20 token sender. CSV upload, 10k addresses, multi-wallet, ERC-8021 attribution.
-`TypeScript` `Base` `Vite`
-
-**[NeynarHistory](https://github.com/0xnurrabby/NeynarHistory)**
-Track Farcaster Neynar score over 7/30/90 days with chart and CSV export.
-`TypeScript` `Vite` `Farcaster`
-
-**[vercel-api-balance](https://github.com/0xnurrabby/vercel-api-balance)**
-Always-on-top Electron app showing Vercel AI Gateway balance in real time.
-`Electron` `JavaScript` `Desktop`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔧 Dev Utilities
-
-**[Wallet Generator](https://github.com/0xnurrabby/Wallet-Generator)**
-Generate up to 1000 EVM wallets locally. Export TXT, JSON, or CSV.
-`HTML` `ethers.js`
-
-**[Legacy Code Archaeologist](https://github.com/0xnurrabby/Legacy-Code-Archaeologist)**
-Drop any GitHub repo, Claude explains it, maps deps, finds landmines.
-`JavaScript` `Claude AI`
-
-**[NurChain](https://github.com/0xnurrabby/Chain)**
-Full-stack blockchain explorer with TypeScript backend and React frontend.
-`TypeScript` `React` `Express`
-
-**[hotel-management-system](https://github.com/0xnurrabby/hotel-management-system)**
-Full-stack hotel management with Next.js, Prisma, Tailwind, and Shadcn/UI.
-`TypeScript` `Next.js` `Prisma`
-
-**[Name Generator](https://github.com/0xnurrabby/Name-Generator)**
-Fast browser-based name and username generator with filters and export.
-`HTML` `JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-&nbsp;
-
-</td>
-</tr>
-</table>
+**[→ github.com/0xnurrabby/GasRun](https://github.com/0xnurrabby/GasRun)**
 
 </div>
+</td>
+
+<td width="33%" valign="top">
+<div style="border:2px solid #1a1a1a;padding:16px;background:#e8f4fd;box-shadow:4px 4px 0px #1a1a1a;">
+
+**🚌 BUSPARKING GAME**
+
+3D bus parking puzzle built with BabylonJS. Move buses in the right order to clear the lot.
+
+![JS](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square) ![BabylonJS](https://img.shields.io/badge/BabylonJS-1a1a1a?style=flat-square) ![Farcaster](https://img.shields.io/badge/Farcaster-1a1a1a?style=flat-square)
+
+**[→ github.com/0xnurrabby/BusParking_game](https://github.com/0xnurrabby/BusParking_game)**
+
+</div>
+</td>
+
+<td width="33%" valign="top">
+<div style="border:2px solid #1a1a1a;padding:16px;background:#f0fdf4;box-shadow:4px 4px 0px #1a1a1a;">
+
+**🤖 BASEPOSTING**
+
+AI post generator on Base. Spend 3 credits, get a ready-to-post banger. Credit system on-chain.
+
+![TS](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square) ![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square) ![Base](https://img.shields.io/badge/Base-1a1a1a?style=flat-square)
+
+**[→ github.com/0xnurrabby/Baseposting](https://github.com/0xnurrabby/Baseposting)**
+
+</div>
+</td>
+
+</tr></table>
+
+<br/>
+
+<!-- ROW 2 -->
+<table><tr>
+
+<td width="33%" valign="top">
+<div style="border:2px solid #1a1a1a;padding:16px;background:#fdf4ff;box-shadow:4px 4px 0px #1a1a1a;">
+
+**📊 AUDITOR**
+
+Farcaster analytics tool. 7-day engagement breakdown, best post time, audience type, growth tips for any user.
+
+![JS](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square) ![Neynar](https://img.shields.io/badge/Neynar-1a1a1a?style=flat-square) ![Farcaster](https://img.shields.io/badge/Farcaster-1a1a1a?style=flat-square)
+
+**[→ github.com/0xnurrabby/Auditor](https://github.com/0xnurrabby/Auditor)**
+
+</div>
+</td>
+
+<td width="33%" valign="top">
+<div style="border:2px solid #1a1a1a;padding:16px;background:#fff1f0;box-shadow:4px 4px 0px #1a1a1a;">
+
+**⚡ BASEFLOW**
+
+Bulk ERC-20 token sender. CSV upload, up to 10k addresses, multi-wallet, ERC-8021 builder attribution.
+
+![TS](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square) ![Base](https://img.shields.io/badge/Base-1a1a1a?style=flat-square) ![Vite](https://img.shields.io/badge/Vite-1a1a1a?style=flat-square)
+
+**[→ github.com/0xnurrabby/BaseFlow](https://github.com/0xnurrabby/BaseFlow)**
+
+</div>
+</td>
+
+<td width="33%" valign="top">
+<div style="border:2px solid #1a1a1a;padding:16px;background:#fffbe6;box-shadow:4px 4px 0px #1a1a1a;">
+
+**📈 NEYNARHISTORY**
+
+Track Farcaster Neynar scores over 7, 30, or 90 days. Line chart, change timeline, CSV export.
+
+![TS](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square) ![Vite](https://img.shields.io/badge/Vite-1a1a1a?style=flat-square) ![Farcaster](https://img.shields.io/badge/Farcaster-1a1a1a?style=flat-square)
+
+**[→ github.com/0xnurrabby/NeynarHistory](https://github.com/0xnurrabby/NeynarHistory)**
+
+</div>
+</td>
+
+</tr></table>
+
+<br/>
+
+<!-- ROW 3 -->
+<table><tr>
+
+<td width="33%" valign="top">
+<div style="border:2px solid #1a1a1a;padding:16px;background:#e8f4fd;box-shadow:4px 4px 0px #1a1a1a;">
+
+**📌 VERCEL-API-BALANCE**
+
+Always-on-top Electron app. Floats above every window, shows Vercel AI Gateway balance live.
+
+![Electron](https://img.shields.io/badge/Electron-1a1a1a?style=flat-square) ![JS](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square) ![Desktop](https://img.shields.io/badge/Desktop-1a1a1a?style=flat-square)
+
+**[→ github.com/0xnurrabby/vercel-api-balance](https://github.com/0xnurrabby/vercel-api-balance)**
+
+</div>
+</td>
+
+<td width="33%" valign="top">
+<div style="border:2px solid #1a1a1a;padding:16px;background:#f0fdf4;box-shadow:4px 4px 0px #1a1a1a;">
+
+**🔑 WALLET GENERATOR**
+
+Generate 1 to 1000 EVM wallets locally in one click. Export as TXT, JSON, or CSV. No server.
+
+![HTML](https://img.shields.io/badge/HTML-1a1a1a?style=flat-square) ![ethers.js](https://img.shields.io/badge/ethers.js-1a1a1a?style=flat-square)
+
+**[→ github.com/0xnurrabby/Wallet-Generator](https://github.com/0xnurrabby/Wallet-Generator)**
+
+</div>
+</td>
+
+<td width="33%" valign="top">
+<div style="border:2px solid #1a1a1a;padding:16px;background:#fdf4ff;box-shadow:4px 4px 0px #1a1a1a;">
+
+**🏛️ LEGACY CODE ARCHAEOLOGIST**
+
+Drop any GitHub repo. Claude breaks it down, maps dependencies, finds hidden landmines.
+
+![JS](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square) ![Claude](https://img.shields.io/badge/Claude_AI-1a1a1a?style=flat-square)
+
+**[→ github.com/0xnurrabby/Legacy-Code-Archaeologist](https://github.com/0xnurrabby/Legacy-Code-Archaeologist)**
+
+</div>
+</td>
+
+</tr></table>
+
+<br/>
+
+<!-- ROW 4 -->
+<table><tr>
+
+<td width="33%" valign="top">
+<div style="border:2px solid #1a1a1a;padding:16px;background:#fff1f0;box-shadow:4px 4px 0px #1a1a1a;">
+
+**⛓️ NURCHAIN**
+
+Full-stack blockchain explorer. TypeScript Express backend + React Vite frontend.
+
+![TS](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square) ![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square) ![Express](https://img.shields.io/badge/Express-1a1a1a?style=flat-square)
+
+**[→ github.com/0xnurrabby/Chain](https://github.com/0xnurrabby/Chain)**
+
+</div>
+</td>
+
+<td width="33%" valign="top">
+<div style="border:2px solid #1a1a1a;padding:16px;background:#fffbe6;box-shadow:4px 4px 0px #1a1a1a;">
+
+**🏨 HOTEL MANAGEMENT SYSTEM**
+
+Full-stack hotel system. Rooms, reservations, billing, restaurant, staff, reports. Next.js + Prisma.
+
+![TS](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square) ![Prisma](https://img.shields.io/badge/Prisma-1a1a1a?style=flat-square)
+
+**[→ github.com/0xnurrabby/hotel-management-system](https://github.com/0xnurrabby/hotel-management-system)**
+
+</div>
+</td>
+
+<td width="33%" valign="top">
+<div style="border:2px solid #1a1a1a;padding:16px;background:#e8f4fd;box-shadow:4px 4px 0px #1a1a1a;">
+
+**✏️ NAME GENERATOR**
+
+Fast browser-based name and username generator. Gender filter, dark/light mode, one-click copy.
+
+![HTML](https://img.shields.io/badge/HTML-1a1a1a?style=flat-square) ![JS](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square)
+
+**[→ github.com/0xnurrabby/Name-Generator](https://github.com/0xnurrabby/Name-Generator)**
+
+</div>
+</td>
+
+</tr></table>
 
 ---
 
 <!-- LANGUAGE BREAKDOWN -->
 ## `{ language_breakdown }`
 
-<div align="center">
+<br/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-42.2%25-FFF4A8?style=flat-square&labelColor=1a1a1a)
-![TypeScript](https://img.shields.io/badge/TypeScript-40.3%25-B3D9FF?style=flat-square&labelColor=1a1a1a)
-![HTML](https://img.shields.io/badge/HTML-9.1%25-FFB3B3?style=flat-square&labelColor=1a1a1a)
-![CSS](https://img.shields.io/badge/CSS-7.4%25-D4B3FF?style=flat-square&labelColor=1a1a1a)
-![Python](https://img.shields.io/badge/Python-0.9%25-FFD4A8?style=flat-square&labelColor=1a1a1a)
+<table><tr>
+
+<td width="50%" valign="top">
+<div style="border:2px solid #1a1a1a;padding:20px;background:#fffbe6;box-shadow:4px 4px 0px #1a1a1a;">
+
+**LANGUAGE USAGE ACROSS ALL 37 REPOS**
 
 ```
-JavaScript  ████████████████████░░░░░░░░░░░░░░░░░░░░  42.2%
-TypeScript  ███████████████████░░░░░░░░░░░░░░░░░░░░░  40.3%
-HTML        ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   9.1%
-CSS         ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   7.4%
-Python      ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
+JavaScript  ████████████████████  42.2%
+TypeScript  ███████████████████   40.3%
+HTML        ████                   9.1%
+CSS         ███                    7.4%
+Python      ░                      0.9%
 ```
-
-*calculated across all 37 repos*
 
 </div>
+</td>
+
+<td width="50%" valign="top">
+<div style="border:2px solid #1a1a1a;padding:20px;background:#f0fdf4;box-shadow:4px 4px 0px #1a1a1a;">
+
+**BREAKDOWN**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-42.2%25-FFF4A8?style=for-the-badge&labelColor=1a1a1a&color=FFF4A8)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-40.3%25-B3D9FF?style=for-the-badge&labelColor=1a1a1a&color=B3D9FF)
+
+![HTML](https://img.shields.io/badge/HTML-9.1%25-FFB3B3?style=for-the-badge&labelColor=1a1a1a&color=FFB3B3)
+
+![CSS](https://img.shields.io/badge/CSS-7.4%25-D4B3FF?style=for-the-badge&labelColor=1a1a1a&color=D4B3FF)
+
+![Python](https://img.shields.io/badge/Python-0.9%25-FFD4A8?style=for-the-badge&labelColor=1a1a1a&color=FFD4A8)
+
+</div>
+</td>
+
+</tr></table>
 
 ---
 
