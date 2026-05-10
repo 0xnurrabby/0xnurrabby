@@ -8,7 +8,7 @@
 <!-- NAME + TAGLINE -->
 <div align="center">
 
-**`// 👋 Hey, I'm NUR RABBY SHUVO aka **
+**`// 👋 Hey, I'm NUR RABBY SHUVO`**
 
 **`// 📍 Bangladesh 🇧🇩 · @pirichain`**
 
